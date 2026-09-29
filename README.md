@@ -1,4 +1,6 @@
-# BewlyBewly
+# BiliFlow
+
+> Forked from [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) (archived; original author: Hakadao). Now independently maintained as BiliFlow.
 
 English | [官话 - 简体中文](README-cmn_CN.md) | [官話 - 繁體中文](README-cmn_TW.md) | [廣東話](README-jyut.md)
 
